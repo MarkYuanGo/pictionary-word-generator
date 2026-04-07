@@ -6,6 +6,8 @@
 
 **Stop wasting paper and start sketching\!** PictionaryHub is a fast, fun, and completely free web-based drawing game designed for friends, families, and remote teams.
 
+<img src='https://ph-files.imgix.net/f304dce7-025f-49b6-9253-758e34c68700.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=394&h=220&fit=max&frame=1&dpr=2' />
+
 [**👉 Start Playing Now at PictionaryHub.com**](http://pictionaryhub.com/)
 
 -----
