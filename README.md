@@ -65,7 +65,7 @@ PictionaryHub is a high-performance web application built using modern web techn
 
 We are constantly improving\! While the source code is not open for public contribution at this time, your ideas are.
 
-  * **Have a feature idea?** Open an [Issue](https://www.google.com/search?q=https://github.com/your-username/pictionary-hub/issues).
+  * **Have a feature idea?** Open an [Issue](https://github.com/MarkYuanGo/pictionary-hub/issues).
   * **Found a bug?** Let us know.
   * **Want a custom word list?** Reach out\!
 
@@ -75,7 +75,7 @@ We are constantly improving\! While the source code is not open for public contr
 
   * **Official Website:** [pictionaryhub.com](http://pictionaryhub.com/)
   * **Follow Updates:** [Twitter/X](https://x.com/MarkYuan226193)
-  * **Contact:** [hello@pictionaryhub.com](marklongpc@gmail.com)
+  * **Contact:** [marklongpc@gmail.com](marklongpc@gmail.com)
 
 -----
 
