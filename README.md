@@ -43,9 +43,9 @@ Break the ice in your next meeting. Nothing says "teamwork" like trying to figur
 
 While the core engine of PictionaryHub is proprietary, we use this repository to share **community-curated word lists**, **game variations**, and **how-to guides**.
 
-  * [**5 Pictionary Variations to Try**](https://www.google.com/search?q=./docs/variations.md)
-  * [**Age-Appropriate Word Lists for Kids**](https://www.google.com/search?q=./docs/kids-guide.md)
-  * [**The Karaoke Intermission Strategy**](https://www.google.com/search?q=./docs/karaoke-guide.md)
+  * [**How to Host the Perfect Pictionary Night**](https://pictionaryhub.com/blog/257?slug=How%20to%20Host%20the%20Perfect%20Pictionary%20Night)
+  * [**Best Pictionary Words for Office Team Building**](https://pictionaryhub.com/blog/258?slug=Best%20Pictionary%20Words%20for%20Office%20Team%20Building)
+  * [**Pictionary for Kids: Age-Appropriate Word Lists and Simplified Rules**](https://pictionaryhub.com/blog/261?slug=Pictionary%20for%20Kids:%20Age-Appropriate%20Word%20Lists%20and%20Simplified%20Rules)
 
 -----
 
@@ -72,8 +72,8 @@ We are constantly improving\! While the source code is not open for public contr
 ## 🔗 Quick Links
 
   * **Official Website:** [pictionaryhub.com](http://pictionaryhub.com/)
-  * **Follow Updates:** [Twitter/X](https://www.google.com/search?q=https://twitter.com/your-handle)
-  * **Contact:** [hello@pictionaryhub.com](mailto:hello@pictionaryhub.com)
+  * **Follow Updates:** [Twitter/X](https://x.com/MarkYuan226193)
+  * **Contact:** [hello@pictionaryhub.com](marklongpc@gmail.com)
 
 -----
 
