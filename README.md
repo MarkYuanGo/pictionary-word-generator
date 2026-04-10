@@ -78,6 +78,7 @@ We are constantly improving\! While the source code is not open for public contr
   * **Contact:** [marklongpc@gmail.com](marklongpc@gmail.com)
 
 -----
+<a align="center" href="https://www.producthunt.com/products/pictionaryhub?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-pictionaryhub" target="_blank" rel="noopener noreferrer"><img alt="PictionaryHub - AI-powered Pictionary word generator for instant fun. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1116662&amp;theme=light&amp;t=1775792426237"></a>
 
 <p align="center">
 Made with ❤️ for the sketching community. <br>
